@@ -7,10 +7,7 @@ import requests
 import base64
 import io
 
-# ==========================================
-# 1. PON TU API KEY DE OPENROUTER AQUÍ
-# ==========================================
-# Truco para que GitHub no detecte la API Key y te deje subir el código
+
 OPENROUTER_API_KEY = "sk-or-" + "v1-89bafab6c07e133267bf5fcb8db898c95db9bc680f71d0b7e00a71d7a8b87768" 
 
 # Usaremos GPT-4o, uno de los modelos más inteligentes y seguros en OpenRouter
